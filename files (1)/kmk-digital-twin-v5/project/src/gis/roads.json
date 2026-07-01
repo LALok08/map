@@ -1,0 +1,502 @@
+[
+  {
+    "id": "R_PERSIARAN_KM_W",
+    "name": "Persiaran Kayu Manis (Barat)",
+    "type": "primary",
+    "width": 10,
+    "polyline": [
+      [
+        -360,
+        -320
+      ],
+      [
+        -360,
+        -160
+      ],
+      [
+        -360,
+        0
+      ],
+      [
+        -360,
+        110
+      ],
+      [
+        -360,
+        230
+      ]
+    ]
+  },
+  {
+    "id": "R_PERSIARAN_KM_S",
+    "name": "Persiaran Kayu Manis (Selatan)",
+    "type": "primary",
+    "width": 10,
+    "polyline": [
+      [
+        -360,
+        230
+      ],
+      [
+        -260,
+        240
+      ],
+      [
+        -100,
+        245
+      ],
+      [
+        0,
+        250
+      ],
+      [
+        120,
+        248
+      ],
+      [
+        220,
+        245
+      ],
+      [
+        290,
+        232
+      ]
+    ]
+  },
+  {
+    "id": "R_PERSIARAN_KM_E",
+    "name": "Persiaran Kayu Manis (Sambungan Timur)",
+    "type": "primary",
+    "width": 10,
+    "polyline": [
+      [
+        -360,
+        -45
+      ],
+      [
+        -220,
+        -45
+      ],
+      [
+        -100,
+        -45
+      ],
+      [
+        20,
+        -45
+      ],
+      [
+        120,
+        -45
+      ],
+      [
+        220,
+        -45
+      ],
+      [
+        290,
+        -40
+      ]
+    ]
+  },
+  {
+    "id": "R_JALAN_PELAGA",
+    "name": "Jalan Pelaga (Utara)",
+    "type": "primary",
+    "width": 10,
+    "polyline": [
+      [
+        -360,
+        -320
+      ],
+      [
+        -260,
+        -325
+      ],
+      [
+        -150,
+        -330
+      ],
+      [
+        -50,
+        -325
+      ],
+      [
+        60,
+        -315
+      ]
+    ]
+  },
+  {
+    "id": "R_JALAN_CENGKIH",
+    "name": "Jalan Cengkih (Spine Tengah)",
+    "type": "primary",
+    "width": 8,
+    "polyline": [
+      [
+        -40,
+        -310
+      ],
+      [
+        -40,
+        -210
+      ],
+      [
+        -40,
+        -110
+      ],
+      [
+        -40,
+        -45
+      ],
+      [
+        -40,
+        50
+      ],
+      [
+        -40,
+        150
+      ],
+      [
+        -40,
+        250
+      ]
+    ]
+  },
+  {
+    "id": "R_JALAN_BUNGA_W",
+    "name": "Jalan Bunga Lawang",
+    "type": "primary",
+    "width": 9,
+    "polyline": [
+      [
+        290,
+        -270
+      ],
+      [
+        295,
+        -180
+      ],
+      [
+        298,
+        -120
+      ],
+      [
+        300,
+        -40
+      ],
+      [
+        300,
+        40
+      ],
+      [
+        300,
+        130
+      ],
+      [
+        295,
+        220
+      ]
+    ]
+  },
+  {
+    "id": "R_EXT_PELAGA_E",
+    "name": "Jalan Pelaga — sambungan timur",
+    "type": "external",
+    "width": 11,
+    "polyline": [
+      [
+        60,
+        -315
+      ],
+      [
+        180,
+        -310
+      ],
+      [
+        300,
+        -290
+      ],
+      [
+        420,
+        -260
+      ]
+    ]
+  },
+  {
+    "id": "R_EXT_BUNGA_NE",
+    "name": "Jalan Beringin 9 — sambungan timur laut",
+    "type": "external",
+    "width": 11,
+    "polyline": [
+      [
+        290,
+        -270
+      ],
+      [
+        360,
+        -250
+      ],
+      [
+        440,
+        -210
+      ],
+      [
+        500,
+        -150
+      ]
+    ]
+  },
+  {
+    "id": "R_EXT_KM_NW",
+    "name": "Persiaran Kayu Manis — sambungan barat laut",
+    "type": "external",
+    "width": 11,
+    "polyline": [
+      [
+        -360,
+        -320
+      ],
+      [
+        -420,
+        -380
+      ],
+      [
+        -500,
+        -420
+      ]
+    ]
+  },
+  {
+    "id": "R_EXT_KM_SW",
+    "name": "Persiaran Kayu Manis — sambungan barat daya",
+    "type": "external",
+    "width": 11,
+    "polyline": [
+      [
+        -360,
+        230
+      ],
+      [
+        -410,
+        320
+      ],
+      [
+        -480,
+        400
+      ]
+    ]
+  },
+  {
+    "id": "R_EXT_BUNGA_S",
+    "name": "Jalan Bunga Lawang — sambungan selatan",
+    "type": "external",
+    "width": 11,
+    "polyline": [
+      [
+        295,
+        220
+      ],
+      [
+        330,
+        290
+      ],
+      [
+        370,
+        360
+      ]
+    ]
+  },
+  {
+    "id": "R_NORTH_LINK",
+    "name": "Lorong Utara (Astaka ↔ Dewan)",
+    "type": "secondary",
+    "width": 6,
+    "polyline": [
+      [
+        -330,
+        -180
+      ],
+      [
+        -260,
+        -175
+      ],
+      [
+        -180,
+        -170
+      ],
+      [
+        -100,
+        -170
+      ],
+      [
+        -40,
+        -165
+      ]
+    ]
+  },
+  {
+    "id": "R_DEWAN_LOOP",
+    "name": "Lorong Dewan Mahawangsa",
+    "type": "secondary",
+    "width": 6,
+    "polyline": [
+      [
+        -150,
+        -125
+      ],
+      [
+        -100,
+        -125
+      ],
+      [
+        -40,
+        -125
+      ]
+    ]
+  },
+  {
+    "id": "R_GARAJ_LINK",
+    "name": "Lorong Garaj",
+    "type": "secondary",
+    "width": 6,
+    "polyline": [
+      [
+        140,
+        -110
+      ],
+      [
+        190,
+        -110
+      ],
+      [
+        245,
+        -110
+      ]
+    ]
+  },
+  {
+    "id": "R_INNER_NS_W",
+    "name": "Lorong Tengah Barat",
+    "type": "secondary",
+    "width": 5,
+    "polyline": [
+      [
+        -100,
+        -45
+      ],
+      [
+        -100,
+        50
+      ],
+      [
+        -100,
+        150
+      ]
+    ]
+  },
+  {
+    "id": "R_INNER_NS_E",
+    "name": "Lorong Tengah Timur",
+    "type": "secondary",
+    "width": 5,
+    "polyline": [
+      [
+        120,
+        -45
+      ],
+      [
+        120,
+        50
+      ],
+      [
+        120,
+        150
+      ]
+    ]
+  },
+  {
+    "id": "R_SERI_LAKA_LOOP",
+    "name": "Lorong Seri Laka",
+    "type": "secondary",
+    "width": 6,
+    "polyline": [
+      [
+        150,
+        -40
+      ],
+      [
+        150,
+        50
+      ],
+      [
+        150,
+        130
+      ],
+      [
+        195,
+        175
+      ],
+      [
+        245,
+        130
+      ]
+    ]
+  },
+  {
+    "id": "R_DATARAN_W",
+    "name": "Laluan Dataran Pelajar (Barat)",
+    "type": "path",
+    "width": 4,
+    "polyline": [
+      [
+        -220,
+        75
+      ],
+      [
+        -160,
+        75
+      ],
+      [
+        -100,
+        75
+      ]
+    ]
+  },
+  {
+    "id": "R_DATARAN_E",
+    "name": "Laluan Dataran Pelajar (Timur)",
+    "type": "path",
+    "width": 4,
+    "polyline": [
+      [
+        -40,
+        75
+      ],
+      [
+        20,
+        75
+      ],
+      [
+        100,
+        75
+      ]
+    ]
+  },
+  {
+    "id": "R_MASJID_PATH",
+    "name": "Laluan ke Masjid",
+    "type": "path",
+    "width": 3,
+    "polyline": [
+      [
+        -90,
+        -45
+      ],
+      [
+        -90,
+        -10
+      ]
+    ]
+  }
+]

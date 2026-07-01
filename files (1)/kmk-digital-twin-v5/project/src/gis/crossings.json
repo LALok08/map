@@ -1,0 +1,170 @@
+[
+  {
+    "id": "X_KM_DK",
+    "name": "Lintasan Zebra (Dewan Kuliah)",
+    "center": [
+      -310,
+      -30
+    ],
+    "width": 9,
+    "length": 8,
+    "rotation": 0,
+    "stripes": 5
+  },
+  {
+    "id": "X_KM_PUSTAKA",
+    "name": "Lintasan Zebra (Pustaka)",
+    "center": [
+      -310,
+      90
+    ],
+    "width": 9,
+    "length": 8,
+    "rotation": 0,
+    "stripes": 5
+  },
+  {
+    "id": "X_KM_LANG",
+    "name": "Lintasan Zebra (Langkasuka)",
+    "center": [
+      -310,
+      165
+    ],
+    "width": 9,
+    "length": 8,
+    "rotation": 0,
+    "stripes": 5
+  },
+  {
+    "id": "X_KM_SOUTH_1",
+    "name": "Lintasan Zebra (Selatan 1)",
+    "center": [
+      -150,
+      240
+    ],
+    "width": 9,
+    "length": 9,
+    "rotation": 90,
+    "stripes": 5
+  },
+  {
+    "id": "X_KM_SOUTH_2",
+    "name": "Lintasan Zebra (Selatan 2)",
+    "center": [
+      0,
+      248
+    ],
+    "width": 9,
+    "length": 9,
+    "rotation": 90,
+    "stripes": 5
+  },
+  {
+    "id": "X_KM_SOUTH_3",
+    "name": "Lintasan Zebra (Selatan 3)",
+    "center": [
+      150,
+      246
+    ],
+    "width": 9,
+    "length": 9,
+    "rotation": 90,
+    "stripes": 5
+  },
+  {
+    "id": "X_CENGKIH_N",
+    "name": "Lintasan Zebra (Jalan Cengkih U)",
+    "center": [
+      -40,
+      -160
+    ],
+    "width": 8,
+    "length": 9,
+    "rotation": 0,
+    "stripes": 5
+  },
+  {
+    "id": "X_CENGKIH_M",
+    "name": "Lintasan Zebra (Jalan Cengkih T)",
+    "center": [
+      -40,
+      -10
+    ],
+    "width": 8,
+    "length": 9,
+    "rotation": 0,
+    "stripes": 5
+  },
+  {
+    "id": "X_CENGKIH_S",
+    "name": "Lintasan Zebra (Jalan Cengkih S)",
+    "center": [
+      -40,
+      150
+    ],
+    "width": 8,
+    "length": 9,
+    "rotation": 0,
+    "stripes": 5
+  },
+  {
+    "id": "X_DEWAN_PED",
+    "name": "Lintasan Zebra (Dewan Mahawangsa)",
+    "center": [
+      -100,
+      -100
+    ],
+    "width": 8,
+    "length": 8,
+    "rotation": 0,
+    "stripes": 5
+  },
+  {
+    "id": "X_MASJID_PED",
+    "name": "Lintasan Zebra (Masjid)",
+    "center": [
+      -90,
+      -30
+    ],
+    "width": 8,
+    "length": 8,
+    "rotation": 0,
+    "stripes": 5
+  },
+  {
+    "id": "X_SERI_LAKA",
+    "name": "Lintasan Zebra (Seri Laka)",
+    "center": [
+      150,
+      25
+    ],
+    "width": 8,
+    "length": 9,
+    "rotation": 90,
+    "stripes": 5
+  },
+  {
+    "id": "X_BUNGA_NE",
+    "name": "Lintasan Zebra (Jalan Bunga Lawang)",
+    "center": [
+      298,
+      -120
+    ],
+    "width": 8,
+    "length": 9,
+    "rotation": 90,
+    "stripes": 5
+  },
+  {
+    "id": "X_PELAGA_W",
+    "name": "Lintasan Zebra (Jalan Pelaga)",
+    "center": [
+      -260,
+      -325
+    ],
+    "width": 9,
+    "length": 10,
+    "rotation": 0,
+    "stripes": 6
+  }
+]

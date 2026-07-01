@@ -1,0 +1,186 @@
+[
+  {
+    "id": "G_PADANG",
+    "type": "field",
+    "name": "Padang",
+    "polygon": [
+      [
+        -305,
+        -277.5
+      ],
+      [
+        -175,
+        -277.5
+      ],
+      [
+        -175,
+        -202.5
+      ],
+      [
+        -305,
+        -202.5
+      ]
+    ]
+  },
+  {
+    "id": "G_POND_N",
+    "type": "garden",
+    "name": "Kolam Utara",
+    "polygon": [
+      [
+        -150,
+        -385
+      ],
+      [
+        -70,
+        -385
+      ],
+      [
+        -70,
+        -335
+      ],
+      [
+        -150,
+        -335
+      ]
+    ]
+  },
+  {
+    "id": "G_LAWN_N",
+    "type": "lawn",
+    "name": "Taman Utara",
+    "polygon": [
+      [
+        -250,
+        -307.5
+      ],
+      [
+        -190,
+        -307.5
+      ],
+      [
+        -190,
+        -272.5
+      ],
+      [
+        -250,
+        -272.5
+      ]
+    ]
+  },
+  {
+    "id": "G_DATARAN_PELAJAR",
+    "type": "plaza",
+    "name": "Dataran Pelajar",
+    "polygon": [
+      [
+        -165,
+        50
+      ],
+      [
+        -35,
+        50
+      ],
+      [
+        -35,
+        100
+      ],
+      [
+        -165,
+        100
+      ]
+    ]
+  },
+  {
+    "id": "G_TAMAN_TENGAH",
+    "type": "garden",
+    "name": "Taman Tengah",
+    "polygon": [
+      [
+        -184,
+        -44
+      ],
+      [
+        -146,
+        -44
+      ],
+      [
+        -146,
+        -6
+      ],
+      [
+        -184,
+        -6
+      ]
+    ]
+  },
+  {
+    "id": "G_LAWN_SL",
+    "type": "lawn",
+    "name": "Taman Seri Laka",
+    "polygon": [
+      [
+        179,
+        115
+      ],
+      [
+        211,
+        115
+      ],
+      [
+        211,
+        145
+      ],
+      [
+        179,
+        145
+      ]
+    ]
+  },
+  {
+    "id": "G_GREEN_STRIP_E",
+    "type": "lawn",
+    "name": "Jalur Hijau Timur",
+    "polygon": [
+      [
+        322.5,
+        -100
+      ],
+      [
+        347.5,
+        -100
+      ],
+      [
+        347.5,
+        100
+      ],
+      [
+        322.5,
+        100
+      ]
+    ]
+  },
+  {
+    "id": "G_TAMAN_SW",
+    "type": "garden",
+    "name": "Taman Barat Daya",
+    "polygon": [
+      [
+        -325,
+        180
+      ],
+      [
+        -295,
+        180
+      ],
+      [
+        -295,
+        220
+      ],
+      [
+        -325,
+        220
+      ]
+    ]
+  }
+]

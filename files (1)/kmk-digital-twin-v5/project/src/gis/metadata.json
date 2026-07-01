@@ -1,0 +1,528 @@
+{
+ "B_ASTAKA": {
+  "name": "Astaka",
+  "emoji": "🏟️",
+  "description": "Astaka utama menghadap padang dan litar olahraga.",
+  "tags": [
+   "sukan",
+   "astaka",
+   "perhimpunan"
+  ],
+  "floors": 2,
+  "hours": "06:00–22:00"
+ },
+ "B_TENNIS_NW": {
+  "name": "Gelanggang Tenis",
+  "emoji": "🎾",
+  "description": "Gelanggang tenis di sebelah utara, berdekatan Jalan Pelaga.",
+  "tags": [
+   "sukan",
+   "tenis"
+  ],
+  "floors": 1,
+  "hours": "06:00–22:00"
+ },
+ "B_SERAMBI": {
+  "name": "Serambi Aktiviti Pelajar",
+  "emoji": "✨",
+  "description": "Pusat aktiviti pelajar dengan ruang dalaman terbuka. Termasuk Pejabat HEP, kaunseling dan ruang aktiviti.",
+  "tags": [
+   "HEP",
+   "kaunseling",
+   "pelajar",
+   "aktiviti"
+  ],
+  "floors": 2,
+  "hours": "Isnin–Jumaat 08:00–17:00"
+ },
+ "B_DEWAN_MAHAWANGSA": {
+  "name": "Dewan Mahawangsa",
+  "emoji": "🎓",
+  "description": "Dewan utama dan terbesar di KMK. Bumbung tinggi tanpa tiang tengah. Digunakan untuk konvokesyen, perhimpunan besar, ceramah dan majlis rasmi.",
+  "tags": [
+   "dewan",
+   "majlis",
+   "konvokesyen",
+   "perhimpunan"
+  ],
+  "floors": 2,
+  "hours": "Mengikut acara · 08:00–22:00"
+ },
+ "B_GARAJ": {
+  "name": "Garaj Bas",
+  "emoji": "🚌",
+  "description": "Garaj dan tempat letak bas kolej.",
+  "tags": [
+   "bas",
+   "pengangkutan",
+   "garaj"
+  ],
+  "floors": 1,
+  "hours": "06:00–22:00"
+ },
+ "B_DEWAN_KULIAH": {
+  "name": "Kompleks Dewan Kuliah",
+  "emoji": "📐",
+  "description": "Kompleks dewan kuliah utama — beberapa dewan kuliah besar dan bilik tutorial mengelilingi laman dalaman.",
+  "tags": [
+   "dewan kuliah",
+   "kuliah",
+   "lecture"
+  ],
+  "floors": 3,
+  "hours": "Isnin–Sabtu 07:30–18:00"
+ },
+ "B_MASJID": {
+  "name": "Masjid Khulafa Ar Rasyidin",
+  "emoji": "🕌",
+  "description": "Masjid Khulafa Ar Rasyidin — mercu tanda kampus KMK dengan kubah hijau besar dan menara (minaret). Ruang solat luas untuk seluruh warga kolej.",
+  "tags": [
+   "masjid",
+   "solat",
+   "agama",
+   "kubah",
+   "minaret",
+   "jumaat",
+   "khulafa",
+   "ar rasyidin"
+  ],
+  "floors": 2,
+  "hours": "24 jam · Solat Jumaat 12:45"
+ },
+ "B_LANGKASUKA": {
+  "name": "Bangunan Langkasuka",
+  "emoji": "🏫",
+  "description": "Bangunan Langkasuka — bilik kuliah tambahan, makmal, pejabat jabatan dan pejabat pensyarah.",
+  "tags": [
+   "kuliah",
+   "pensyarah",
+   "jabatan",
+   "langkasuka"
+  ],
+  "floors": 3,
+  "hours": "Isnin–Sabtu 07:30–18:00"
+ },
+ "B_PUSTAKA": {
+  "name": "Pustaka (Perpustakaan)",
+  "emoji": "📚",
+  "description": "Perpustakaan utama KMK. Koleksi buku akademik, zon belajar berkumpulan, zon senyap dan ruang baca.",
+  "tags": [
+   "perpustakaan",
+   "pustaka",
+   "buku",
+   "belajar",
+   "wifi"
+  ],
+  "floors": 3,
+  "hours": "Isnin–Khamis 08:30–21:30 · Sabtu 08:30–17:00"
+ },
+ "B_KOOP": {
+  "name": "Koperasi & Pejabat Pos",
+  "emoji": "🛒",
+  "description": "Koperasi pelajar KMK, kedai buku, alat tulis dan pejabat pos kampus.",
+  "tags": [
+   "koperasi",
+   "pos",
+   "kedai",
+   "buku"
+  ],
+  "floors": 1,
+  "hours": "Isnin–Jumaat 08:30–17:30"
+ },
+ "B_BLOK_AKADEMIK_S": {
+  "name": "Blok Akademik Selatan",
+  "emoji": "🏫",
+  "description": "Blok Akademik Selatan — bilik tutorial, makmal sains atau bilik pensyarah mengelilingi laman dalaman.",
+  "tags": [
+   "tutorial",
+   "makmal",
+   "akademik"
+  ],
+  "floors": 3,
+  "hours": "Isnin–Sabtu 07:30–18:00"
+ },
+ "B_SERI_LAKA": {
+  "name": "Kediaman Seri Laka",
+  "emoji": "🛏️",
+  "description": "Kediaman Seri Laka — kompleks asrama pelajar utama dengan laman dalaman terbuka dan selasar di setiap aras.",
+  "tags": [
+   "asrama",
+   "seri laka",
+   "kediaman",
+   "pelajar"
+  ],
+  "floors": 4,
+  "hours": "24 jam (residen sahaja)"
+ },
+ "B_KP_P1": {
+  "name": "Kediaman Pensyarah P1",
+  "emoji": "🏡",
+  "description": "Kediaman Pensyarah P1 — kediaman pensyarah dan staf akademik di zon timur kampus, sepanjang Jalan Bunga Lawang.",
+  "tags": [
+   "kediaman",
+   "pensyarah",
+   "staf"
+  ],
+  "floors": 2,
+  "hours": "Kawasan kediaman"
+ },
+ "B_KP_P2": {
+  "name": "Kediaman Pensyarah P2",
+  "emoji": "🏡",
+  "description": "Kediaman Pensyarah P2 — kediaman pensyarah dan staf akademik di zon timur kampus, sepanjang Jalan Bunga Lawang.",
+  "tags": [
+   "kediaman",
+   "pensyarah",
+   "staf"
+  ],
+  "floors": 2,
+  "hours": "Kawasan kediaman"
+ },
+ "B_KP_P3": {
+  "name": "Kediaman Pensyarah P3",
+  "emoji": "🏡",
+  "description": "Kediaman Pensyarah P3 — kediaman pensyarah dan staf akademik di zon timur kampus, sepanjang Jalan Bunga Lawang.",
+  "tags": [
+   "kediaman",
+   "pensyarah",
+   "staf"
+  ],
+  "floors": 2,
+  "hours": "Kawasan kediaman"
+ },
+ "B_KP_P4": {
+  "name": "Kediaman Pensyarah P4",
+  "emoji": "🏡",
+  "description": "Kediaman Pensyarah P4 — kediaman pensyarah dan staf akademik di zon timur kampus, sepanjang Jalan Bunga Lawang.",
+  "tags": [
+   "kediaman",
+   "pensyarah",
+   "staf"
+  ],
+  "floors": 2,
+  "hours": "Kawasan kediaman"
+ },
+ "B_KEDIAMAN_PENGARAH": {
+  "name": "Kediaman Pengarah",
+  "emoji": "🏡",
+  "description": "Kediaman rasmi Pengarah KMK di sudut tenggara kampus.",
+  "tags": [
+   "kediaman",
+   "pengarah",
+   "direktur"
+  ],
+  "floors": 2,
+  "hours": "Kawasan kediaman"
+ },
+ "B_GUARD_W": {
+  "name": "Pondok Pengawal Barat",
+  "emoji": "🛡️",
+  "description": "Pondok pengawal pintu masuk barat (Persiaran Kayu Manis).",
+  "tags": [
+   "keselamatan",
+   "pengawal",
+   "masuk"
+  ],
+  "floors": 1,
+  "hours": "24 jam"
+ },
+ "B_GUARD_S": {
+  "name": "Pondok Pengawal Selatan",
+  "emoji": "🛡️",
+  "description": "Pondok pengawal pintu masuk selatan.",
+  "tags": [
+   "keselamatan",
+   "pengawal",
+   "keluar"
+  ],
+  "floors": 1,
+  "hours": "24 jam"
+ },
+ "P_ASTAKA": {
+  "name": "Parkir Astaka",
+  "emoji": "🅿️",
+  "description": "Parkir Astaka — kawasan parkir kampus.",
+  "tags": [
+   "parkir",
+   "parking"
+  ],
+  "floors": 1,
+  "hours": "24 jam mengikut peraturan kolej"
+ },
+ "P_DEWAN_W": {
+  "name": "Parkir Dewan (Barat)",
+  "emoji": "🅿️",
+  "description": "Parkir Dewan (Barat) — kawasan parkir kampus.",
+  "tags": [
+   "parkir",
+   "parking"
+  ],
+  "floors": 1,
+  "hours": "24 jam mengikut peraturan kolej"
+ },
+ "P_DEWAN_E": {
+  "name": "Parkir Dewan (Timur)",
+  "emoji": "🅿️",
+  "description": "Parkir Dewan (Timur) — kawasan parkir kampus.",
+  "tags": [
+   "parkir",
+   "parking"
+  ],
+  "floors": 1,
+  "hours": "24 jam mengikut peraturan kolej"
+ },
+ "P_DK_W": {
+  "name": "Parkir Dewan Kuliah",
+  "emoji": "🅿️",
+  "description": "Parkir Dewan Kuliah — kawasan parkir kampus.",
+  "tags": [
+   "parkir",
+   "parking"
+  ],
+  "floors": 1,
+  "hours": "24 jam mengikut peraturan kolej"
+ },
+ "P_DK_E": {
+  "name": "Parkir Dewan Kuliah E",
+  "emoji": "🅿️",
+  "description": "Parkir Dewan Kuliah E — kawasan parkir kampus.",
+  "tags": [
+   "parkir",
+   "parking"
+  ],
+  "floors": 1,
+  "hours": "24 jam mengikut peraturan kolej"
+ },
+ "P_MASJID": {
+  "name": "Parkir Masjid",
+  "emoji": "🅿️",
+  "description": "Parkir Masjid — kawasan parkir kampus.",
+  "tags": [
+   "parkir",
+   "parking"
+  ],
+  "floors": 1,
+  "hours": "24 jam mengikut peraturan kolej"
+ },
+ "P_PUSTAKA": {
+  "name": "Parkir Pustaka",
+  "emoji": "🅿️",
+  "description": "Parkir Pustaka — kawasan parkir kampus.",
+  "tags": [
+   "parkir",
+   "parking"
+  ],
+  "floors": 1,
+  "hours": "24 jam mengikut peraturan kolej"
+ },
+ "P_CENTRAL_W": {
+  "name": "Parkir Tengah Barat",
+  "emoji": "🅿️",
+  "description": "Parkir Tengah Barat — kawasan parkir kampus.",
+  "tags": [
+   "parkir",
+   "parking"
+  ],
+  "floors": 1,
+  "hours": "24 jam mengikut peraturan kolej"
+ },
+ "P_CENTRAL_E": {
+  "name": "Parkir Tengah Timur",
+  "emoji": "🅿️",
+  "description": "Parkir Tengah Timur — kawasan parkir kampus.",
+  "tags": [
+   "parkir",
+   "parking"
+  ],
+  "floors": 1,
+  "hours": "24 jam mengikut peraturan kolej"
+ },
+ "P_SOUTH_CENTRAL": {
+  "name": "Parkir Selatan Tengah",
+  "emoji": "🅿️",
+  "description": "Parkir Selatan Tengah — kawasan parkir kampus.",
+  "tags": [
+   "parkir",
+   "parking"
+  ],
+  "floors": 1,
+  "hours": "24 jam mengikut peraturan kolej"
+ },
+ "P_LANGKASUKA": {
+  "name": "Parkir Langkasuka",
+  "emoji": "🅿️",
+  "description": "Parkir Langkasuka — kawasan parkir kampus.",
+  "tags": [
+   "parkir",
+   "parking"
+  ],
+  "floors": 1,
+  "hours": "24 jam mengikut peraturan kolej"
+ },
+ "P_SERI_LAKA_W": {
+  "name": "Parkir Seri Laka Barat",
+  "emoji": "🅿️",
+  "description": "Parkir Seri Laka Barat — kawasan parkir kampus.",
+  "tags": [
+   "parkir",
+   "parking"
+  ],
+  "floors": 1,
+  "hours": "24 jam mengikut peraturan kolej"
+ },
+ "P_SERI_LAKA_S": {
+  "name": "Parkir Seri Laka Selatan",
+  "emoji": "🅿️",
+  "description": "Parkir Seri Laka Selatan — kawasan parkir kampus.",
+  "tags": [
+   "parkir",
+   "parking"
+  ],
+  "floors": 1,
+  "hours": "24 jam mengikut peraturan kolej"
+ },
+ "P_PENGARAH": {
+  "name": "Parkir Kediaman Pengarah",
+  "emoji": "🅿️",
+  "description": "Parkir Kediaman Pengarah — kawasan parkir kampus.",
+  "tags": [
+   "parkir",
+   "parking"
+  ],
+  "floors": 1,
+  "hours": "24 jam mengikut peraturan kolej"
+ },
+ "B_SERI_PALAS": {
+  "name": "Kediaman Seri Palas",
+  "emoji": "🛏️",
+  "description": "Kediaman Seri Palas — salah satu blok kediaman pelajar dengan laman dalaman terbuka dan selasar di setiap aras.",
+  "tags": [
+   "asrama",
+   "seri palas",
+   "kediaman",
+   "pelajar"
+  ],
+  "floors": 4,
+  "hours": "24 jam (residen sahaja)"
+ },
+ "B_SERI_TEMIN": {
+  "name": "Kediaman Seri Temin",
+  "emoji": "🛏️",
+  "description": "Kediaman Seri Temin — blok kediaman pelajar dengan laman dalaman terbuka dan selasar di setiap aras.",
+  "tags": [
+   "asrama",
+   "seri temin",
+   "kediaman",
+   "pelajar"
+  ],
+  "floors": 4,
+  "hours": "24 jam (residen sahaja)"
+ },
+ "B_SERI_JERAI": {
+  "name": "Bangunan Seri Jerai",
+  "emoji": "🏫",
+  "description": "Bangunan Seri Jerai — blok akademik yang menempatkan bilik kuliah dan ruang aktiviti pelajar.",
+  "tags": [
+   "akademik",
+   "seri jerai",
+   "kuliah"
+  ],
+  "floors": 3,
+  "hours": "Isnin–Sabtu 07:30–18:00"
+ },
+ "B_BLOK_KETUA_JABATAN": {
+  "name": "Blok Kediaman Ketua Jabatan",
+  "emoji": "🏠",
+  "description": "Blok Kediaman Ketua Jabatan — kediaman rasmi untuk ketua-ketua jabatan KMK.",
+  "tags": [
+   "kediaman",
+   "ketua jabatan",
+   "staf"
+  ],
+  "floors": 2,
+  "hours": "Kediaman peribadi"
+ },
+ "B_KAFETERIA_A": {
+  "name": "Kafeteria A",
+  "emoji": "🍽️",
+  "description": "Kafeteria A — salah satu kafeteria utama pelajar untuk sarapan, makan tengah hari dan makan malam.",
+  "tags": [
+   "kafeteria",
+   "makan",
+   "pelajar"
+  ],
+  "floors": 1,
+  "hours": "06:30–22:00"
+ },
+ "B_KAFETERIA_B": {
+  "name": "Kafeteria B",
+  "emoji": "🍽️",
+  "description": "Kafeteria B — kafeteria pelajar berhampiran kediaman, tumpuan pelajar waktu rehat.",
+  "tags": [
+   "kafeteria",
+   "makan",
+   "pelajar"
+  ],
+  "floors": 1,
+  "hours": "06:30–22:00"
+ },
+ "B_KAFETERIA_C": {
+  "name": "Kafeteria C",
+  "emoji": "🍽️",
+  "description": "Kafeteria C — kafeteria pelajar berhampiran Masjid, sering menjadi tempat berkumpul selepas solat.",
+  "tags": [
+   "kafeteria",
+   "makan",
+   "pelajar"
+  ],
+  "floors": 1,
+  "hours": "06:30–22:00"
+ },
+ "B_KAFETERIA_PENTADBIRAN": {
+  "name": "Kafeteria Pentadbiran",
+  "emoji": "☕",
+  "description": "Kafeteria Pentadbiran — ruang makan untuk kakitangan pentadbiran dan pensyarah KMK.",
+  "tags": [
+   "kafeteria",
+   "pentadbiran",
+   "staf"
+  ],
+  "floors": 1,
+  "hours": "07:30–17:00"
+ },
+ "B_PENCAWANG_1": {
+  "name": "Pencawang Elektrik 1",
+  "emoji": "⚡",
+  "description": "Pencawang elektrik kampus — infrastruktur bekalan kuasa KMK.",
+  "tags": [
+   "utiliti",
+   "elektrik"
+  ],
+  "floors": 1,
+  "hours": "Kawasan larangan"
+ },
+ "B_PENCAWANG_2": {
+  "name": "Pencawang Elektrik 2",
+  "emoji": "⚡",
+  "description": "Pencawang elektrik kampus — infrastruktur bekalan kuasa KMK.",
+  "tags": [
+   "utiliti",
+   "elektrik"
+  ],
+  "floors": 1,
+  "hours": "Kawasan larangan"
+ },
+ "B_BLOK_TUTORAN_MAKMAL": {
+  "name": "Blok Tutoran dan Makmal Sains",
+  "emoji": "🔬",
+  "description": "Blok Tutoran dan Makmal Sains — bilik tutorial dan makmal sains dengan laman dalaman terbuka.",
+  "tags": [
+   "makmal",
+   "tutorial",
+   "sains",
+   "akademik"
+  ],
+  "floors": 3,
+  "hours": "Isnin–Sabtu 07:30–18:00"
+ }
+}

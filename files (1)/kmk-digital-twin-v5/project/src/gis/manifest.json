@@ -1,0 +1,25 @@
+{
+  "name": "Kolej Matrikulasi Kedah (KMK) \u2014 Digital Twin Campus",
+  "origin": {
+    "lat": 6.424347,
+    "lon": 100.419381
+  },
+  "crs": "local-ENU-metres",
+  "generatedAt": "2026-07-01T05:54:42.000Z",
+  "source": "OpenStreetMap (way/relation extract, way IDs preserved) \u2014 Persiaran Kayu Manis \u00b7 Jalan Pelaga \u00b7 Jalan Cengkih \u00b7 Jalan Bunga Lawang",
+  "note": "v5 \u2014 building footprints (incl. courtyard holes) taken directly from surveyed OSM polygons, origin = centroid of named campus buildings. Roads/greenspace/trees carried over from v4.",
+  "bounds": {
+    "minX": -385,
+    "maxX": 353,
+    "minZ": -403,
+    "maxZ": 284
+  },
+  "counts": {
+    "buildings": 44,
+    "roads": 20,
+    "greenspace": 8,
+    "trees": 119,
+    "corridors": 9,
+    "crossings": 14
+  }
+}
